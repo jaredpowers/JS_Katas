@@ -8,4 +8,4 @@ var ageVerifier = function (age){
   }
 };
 
-console.log(ageVerifier(19))
+console.log(ageVerifier(21))
